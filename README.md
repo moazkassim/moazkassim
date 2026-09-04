@@ -80,7 +80,7 @@
 <div align="center">
   <p align="center">
       <samp>
-        <a href="[https://linktr.ee/kamillyvm1](https://moazportfolio.netlify.app/)">Portfolio</a> ⊹
+        <a href="https://moazportfolio.netlify.app">Portfolio</a> ⊹
       </samp>
   </p>
 </div>
